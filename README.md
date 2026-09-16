@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Akshay Kumar</h1>
 <h3 align="center">A passionate Computer Science Engineer</h3>
-<img align="right" alt="Killua" width="400" src="./giphy.gif">">
+<img align="right" alt="Killua" width="400" src="./giphy.gif">
 
 - 👨‍💻 All of my projects are available at [https://a4kshay.github.io/my-portfolio/](https://a4kshay.github.io/my-portfolio/)
 
